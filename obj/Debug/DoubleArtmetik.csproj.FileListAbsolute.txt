@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\C# ders 6\DoubleArtmetik\DoubleArtmetik\bin\Debug\DoubleArtmetik.exe.config
+C:\Users\Dell\source\repos\C# ders 6\DoubleArtmetik\DoubleArtmetik\bin\Debug\DoubleArtmetik.exe
+C:\Users\Dell\source\repos\C# ders 6\DoubleArtmetik\DoubleArtmetik\bin\Debug\DoubleArtmetik.pdb
+C:\Users\Dell\source\repos\C# ders 6\DoubleArtmetik\DoubleArtmetik\obj\Debug\DoubleArtmetik.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C# ders 6\DoubleArtmetik\DoubleArtmetik\obj\Debug\DoubleArtmetik.Form1.resources
+C:\Users\Dell\source\repos\C# ders 6\DoubleArtmetik\DoubleArtmetik\obj\Debug\DoubleArtmetik.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 6\DoubleArtmetik\DoubleArtmetik\obj\Debug\DoubleArtmetik.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 6\DoubleArtmetik\DoubleArtmetik\obj\Debug\DoubleArtmetik.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 6\DoubleArtmetik\DoubleArtmetik\obj\Debug\DoubleArtmetik.exe
+C:\Users\Dell\source\repos\C# ders 6\DoubleArtmetik\DoubleArtmetik\obj\Debug\DoubleArtmetik.pdb

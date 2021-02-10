@@ -1,2 +1,2 @@
 # DoubleArtmetik
- C# Double Artmetik Örnk
+ C# Dilinde Double Artmetik Örnegi
